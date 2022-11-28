@@ -26,3 +26,17 @@ main {
 .img-game-size {
   min-height: 200px;
 }
+
+/* section-ps5 */
+.ps5 {
+  min-height: 400px;
+}
+.img-ps5 {
+  min-height: 200px;
+}
+.img-secondarie-ps5 {
+  min-height: 200px;
+}
+.img-secondarie-ps5 > * {
+  border: 1px solid black;
+}
