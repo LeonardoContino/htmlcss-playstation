@@ -40,3 +40,12 @@ main {
 .img-secondarie-ps5 > * {
   border: 1px solid black;
 }
+
+/* section intakes2 */
+.it-takes {
+  min-height: 400px;
+}
+.it-takes > * {
+  border: 1px solid white;
+  min-height: 100px;
+}
