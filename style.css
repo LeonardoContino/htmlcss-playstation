@@ -81,3 +81,19 @@ main {
 .soul-img {
   min-height: 300px;
 }
+
+/* discount */
+.discount > * {
+  min-height: 200px;
+  border: 1px solid black;
+}
+
+/* pl-now */
+
+.pl-now-bg {
+  background-color: blue;
+  min-height: 300px;
+}
+.soul-img {
+  min-height: 300px;
+}
