@@ -49,3 +49,25 @@ main {
   border: 1px solid white;
   min-height: 100px;
 }
+
+/* section list-games */
+.card-list-game > * {
+  border: 1px solid white;
+}
+.list-img {
+  min-height: 200px;
+}
+.list-text-img {
+  min-height: 50px;
+}
+
+/* explore */
+
+.img-top {
+  width: 100%;
+  min-height: 200px;
+  border: 1px solid black;
+}
+.bottom-img {
+  border: 1px solid black;
+}
