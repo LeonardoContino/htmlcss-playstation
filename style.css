@@ -1,0 +1,9 @@
+.header-top {
+  min-height: 50px;
+}
+.header-bottom {
+  min-height: 80px;
+}
+main {
+  padding-top: 130px;
+}
