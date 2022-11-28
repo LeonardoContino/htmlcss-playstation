@@ -97,3 +97,12 @@ main {
 .soul-img {
   min-height: 300px;
 }
+
+/* social*/
+.social {
+  min-height: 300px;
+}
+.social > .col {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
