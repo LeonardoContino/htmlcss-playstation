@@ -22,8 +22,12 @@
 }
 
 /* section intakes2 */
-.it-takes {
-  min-height: 400px;
+
+.bg-it-takes {
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
 }
 .it-takes > * {
   border: 1px solid white;
