@@ -35,15 +35,6 @@
 }
 
 /* section list-games */
-.card-list-game > * {
-  border: 1px solid white;
-}
-.list-img {
-  min-height: 200px;
-}
-.list-text-img {
-  min-height: 50px;
-}
 
 /* explore */
 
