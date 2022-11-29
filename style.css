@@ -29,10 +29,6 @@
   background-size: cover;
   background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
 }
-.it-takes > * {
-  border: 1px solid white;
-  min-height: 100px;
-}
 
 /* section list-games */
 
@@ -41,10 +37,6 @@
 .img-top {
   width: 100%;
   min-height: 200px;
-  border: 1px solid black;
-}
-.bottom-img {
-  border: 1px solid black;
 }
 
 /* pl plus */
