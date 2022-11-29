@@ -56,10 +56,22 @@
   color: RGB(21, 28, 59);
 }
 /* social*/
-.social {
-  min-height: 300px;
-}
+
 .social > .col {
-  border: 1px solid black;
   margin-bottom: 20px;
+}
+
+/* footer */
+.bg-footer {
+  background-color: RGB(6, 67, 155);
+  color: white;
+}
+
+.language-g {
+  height: 20px;
+  padding-right: 10px;
+}
+.sie-logo {
+  height: 50px;
+  margin-top: 10px;
 }
