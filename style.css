@@ -46,18 +46,15 @@
   min-height: 300px;
 }
 
-/* discount */
-
 /* pl-now */
 
 .pl-now-bg {
-  background-color: blue;
+  background-color: RGB(21, 28, 59);
   min-height: 300px;
 }
-.soul-img {
-  min-height: 300px;
+.btn-color-now {
+  color: RGB(21, 28, 59);
 }
-
 /* social*/
 .social {
   min-height: 300px;
