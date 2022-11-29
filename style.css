@@ -6,8 +6,12 @@
 /* main */
 
 .jumbotron {
+  margin-top: 100px;
   min-height: 500px;
-  background-color: blue;
+  background-image: url(img/jumbo-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
 }
 
 .img-game-card {
