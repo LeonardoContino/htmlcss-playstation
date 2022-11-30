@@ -20,6 +20,9 @@
   color: RGB(27, 127, 210);
   font-size: 15px;
 }
+.img-secondarie-ps5 .col {
+  filter: opacity(0.5);
+}
 
 /* section intakes2 */
 
@@ -81,4 +84,10 @@
 .img-game-size > *:hover img {
   transform: translatey(-1rem);
   transition: all 0.5s ease-in-out;
+}
+
+.img-secondarie-ps5 .col:hover {
+  filter: opacity(1);
+  transition: 0.5s;
+  border-bottom: 2px solid black;
 }
