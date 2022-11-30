@@ -13,7 +13,10 @@
   background-size: cover;
   background-position: top center;
 }
-
+/* img-gamecard */
+.img-game-size > * img {
+  transition: 0.5s;
+}
 /* section-ps5 */
 
 .col-12 > h4 {
@@ -83,7 +86,7 @@
 
 .img-game-size > *:hover img {
   transform: translatey(-1rem);
-  transition: all 0.5s ease-in-out;
+  transition: 0.5s;
 }
 
 .img-secondarie-ps5 .col:hover {
